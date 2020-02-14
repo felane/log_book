@@ -1,0 +1,2 @@
+Day 9 - inheritence and .self in advanced OOP
+Day 10 - Start cookbook day 1 - more OOP, difficult
