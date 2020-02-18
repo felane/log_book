@@ -1,2 +1,3 @@
 Day 9 - inheritence and .self in advanced OOP
 Day 10 - Start cookbook day 1 - more OOP, difficult
+Day 11 - finished cookbook advanced oop. Moving further 2 more days of a big ruby program then onto databases.
