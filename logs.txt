@@ -4,3 +4,5 @@ Day 11 - finished cookbook advanced oop. Moving further 2 more days of a big rub
 Day 12 - finished food delivery app. Difficult, need to practice more. Was 2 out of 10 who finished it.
 Day 14 - continue of relational databases, active record introduction.
 Day 15 - Continue of active record, advanced, more migration, validation and associations.
+
+Day 20 - After learning html, css, bootstrap and now continuing on JS, DOM, Events, fetching APIs.
