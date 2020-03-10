@@ -6,3 +6,4 @@ Day 14 - continue of relational databases, active record introduction.
 Day 15 - Continue of active record, advanced, more migration, validation and associations.
 
 Day 20 - After learning html, css, bootstrap and now continuing on JS, DOM, Events, fetching APIs.
+Day 21 - RAILS
