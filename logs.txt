@@ -7,3 +7,8 @@ Day 15 - Continue of active record, advanced, more migration, validation and ass
 
 Day 20 - After learning html, css, bootstrap and now continuing on JS, DOM, Events, fetching APIs.
 Day 21 - RAILS
+
+
+Done with bootcamp, www.fleapit.net - is my project, very happy about the first version of it.
+Now onto 30 days of JS course and going to dive more into react. Still in quarantine.
+Will update this log book here and there.
