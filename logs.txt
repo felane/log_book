@@ -12,3 +12,5 @@ Day 21 - RAILS
 Done with bootcamp, www.fleapit.net - is my project, very happy about the first version of it.
 Now onto 30 days of JS course and going to dive more into react. Still in quarantine.
 Will update this log book here and there.
+
+github green
