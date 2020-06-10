@@ -14,3 +14,4 @@ Now onto 30 days of JS course and going to dive more into react. Still in quaran
 Will update this log book here and there.
 
 github green
+indiska
